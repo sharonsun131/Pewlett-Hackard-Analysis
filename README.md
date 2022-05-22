@@ -34,4 +34,6 @@ The purpose of this analysis is to determine the number of retiring employees pe
     Since there are only 1,549 employees are eligible for the mentorship program, it seems that there are not 
     enough qualified retirement-ready employees in the departments to mentor the next generation.   
 ### Future insight for the upcoming "silver tsunami". 
-
+   1. If we extend the birth dates of the current employees from January 1, 1964 and December 31, 1965 in the Mentorship Eligibility table, we will get much more eligible employees to mentor the next generation.
+   2. create a new query with a filter on younger employees born between 1970-1975 and retrieve the number of employees by their most recent job title.
+And see how many youger employees are at senior level and at manager level. Those younger employees can also be joined the mentorship program to healp mentor the next generation.  
