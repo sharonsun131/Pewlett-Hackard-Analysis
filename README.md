@@ -15,7 +15,7 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
   ![Screen Shot 2022-05-22 at 1 30 52 PM (2)](https://user-images.githubusercontent.com/102264298/169711189-23a0a2cc-c79f-4b04-8221-976b847d063a.png)
   
-  o	From the unique titles table, it shows that there are 90398 employees who were born between 1952 and 1955 are ready to retire.
+  o	From the unique titles table, it shows that there are 90,398 employees who were born between 1952 and 1955 are ready to retire.
 
   ![Screen Shot 2022-05-22 at 1 33 19 PM (2)](https://user-images.githubusercontent.com/102264298/169710439-1a8dd16e-a364-4dbf-8142-becc8e8d2b86.png)
   
