@@ -11,12 +11,10 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
   o	From the retiring titles table below, we can see that the majority of employees who reach their retirment age are senior Engineer and senior staff.
   
-  o	There are only 2 employees with Manager title are ready to retire, which is least amount of retiring individuals among 72,458 employees. 
-  
-  
-  ![Screen Shot 2022-05-22 at 1 30 52 PM (2)](https://user-images.githubusercontent.com/102264298/169710330-286a3119-2aa1-4cf5-a218-d50f7e246442.png)
+  o	There are only 2 employees with Manager title are ready to retire, which is least amount of current retiring individuals among 72,458 employees with titles. 
 
-
+  ![Screen Shot 2022-05-22 at 1 30 52 PM (2)](https://user-images.githubusercontent.com/102264298/169711189-23a0a2cc-c79f-4b04-8221-976b847d063a.png)
+  
   o	From the unique titles table, it shows that there are 90398 employees who were born between 1952 and 1955 are ready to retire.
 
   ![Screen Shot 2022-05-22 at 1 33 19 PM (2)](https://user-images.githubusercontent.com/102264298/169710439-1a8dd16e-a364-4dbf-8142-becc8e8d2b86.png)
@@ -27,9 +25,13 @@ The purpose of this analysis is to determine the number of retiring employees pe
 
 ## Summary:
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-
+    There are 90,398 roles will need to be filled as the "silver tsunami" within the company.
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+    Since there are only 1,549 employees are eligible for the mentorship program, it seems that there are not 
+    enough qualified retirement-ready employees in the departments to mentor the next generation.   
+### Future insight for the upcoming "silver tsunami". 
+
